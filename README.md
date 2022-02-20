@@ -9,6 +9,6 @@ Forked from : https://www.xfce-look.org/p/1529470/
 
 ## Copyright
 
-Made by LSTEAM on https://www.xfce-look.org/p/1529470/
+Made by LSTEAM on https://www.xfce-look.org/u/lsteam
 
 Forked by the pear-project-community in GNU-GPLv3.
